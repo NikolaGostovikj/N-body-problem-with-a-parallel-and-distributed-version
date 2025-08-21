@@ -69,3 +69,6 @@ The system can run **headless (no graphics)** for performance benchmarking or wi
 
 ---
 
+[![Report Preview](docs/report_preview.png)](Particle%20Simulator%20-%20Nikola%20Gostovikj.pdf)
+
+
